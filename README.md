@@ -1,6 +1,5 @@
-# React Tic-Tac-Toe
-
-Welcome to my React Tic-Tac-Toe project! This README will give you an overview of how the project works.<br/>
+# React X-O
+Welcome to my React X-O project! This README will give you an overview of how the project works.<br/>
 Check Live - https://4gm45r-5173.csb.app/
 ## Project Description
 
