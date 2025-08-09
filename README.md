@@ -3,7 +3,7 @@ Welcome to my React X-O project! This README will give you an overview of how th
 Check Live - https://4gm45r-5173.csb.app/
 ## Project Description
 
-This project is a simple implementation of the classic game of Tic-Tac-Toe using React. It allows two players to take turns marking squares on a 3x3 grid to win the game. Here's how it works:
+This project is a simple implementation of the classic game of X-O using React. It allows two players to take turns marking squares on a 3x3 grid to win the game. Here's how it works:
 
 ## Gameplay
 
